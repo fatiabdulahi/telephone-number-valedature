@@ -18,8 +18,8 @@ const checkValidNumber = (input) => {
 
   const pTag = document.createElement('p');
   pTag.className = 'results-text';
-  if(phoneRegex.test(input)){
-    (pTag.style.color = '#00471b')
+  if (phoneRegex.test(input)) {
+    (pTag.style.color = '#00471b');
   } else {
     (pTag.style.color = '#4d3800');
   }
