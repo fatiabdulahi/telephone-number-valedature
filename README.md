@@ -5,8 +5,9 @@
 
 > Provide a detailed overview of your project. Explain what it does, why it is useful, and any other relevant information.
 
+my project is cheacks input valio inteard by user if this input is a vaiead namber or not .
 Examples;
-Iwork index.html styles.css script.js
+I work index.html styles.css script.js
 
 
 ## Demo 📸
