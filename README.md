@@ -1,11 +1,11 @@
 # telephone-number-valedature 
-# Palindrome-Checker-project
+
 
 ## Project Description 📝
 
 > Provide a detailed overview of your project. Explain what it does, why it is useful, and any other relevant information.
 
-my project is cheacks input valio inteard by user if this input is a vaiead namber or not .
+my project is cheacks input value intered by user if this input is a valide namber or not .
 Examples;
 I work index.html styles.css script.js
 
@@ -35,7 +35,7 @@ Folow these steps to set up the project on your local machine Ensure you have th
 
 # git clone 
 
-https://github.com/fatiabdulahi/telephone-number-valedature/pull/1
+[https://github.com/fatiabdulahi/telephone-number-valedature/]
 
 ## Usage 🎯
 
@@ -47,8 +47,6 @@ you can access to my project through git clone -git clone the HTTP or My SSH cod
 -javascript
 
 -github usage
--palindrome checker project
-
 
 ## Author 👩‍💻 FATIMA ABDULLAHI
 
