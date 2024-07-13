@@ -7,7 +7,7 @@
 body {
   background-image: url(bg.jpeg);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #000;
 }
