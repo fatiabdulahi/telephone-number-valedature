@@ -5,9 +5,7 @@
 }
 
 body {
-  background-image: url(bg.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color:aqua;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #000;
 }
